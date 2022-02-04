@@ -1,0 +1,42 @@
+.logo {
+  width: 30%;
+  height: 30%;
+  border-radius: 50%;
+}
+.logo img {
+  width: 100%;
+  height: 100%;
+}
+.menu {
+  margin-top: -13%;
+  margin-right: 18%;
+}
+
+.clearfix a:hover {
+color:rgb(10, 182, 250);
+}
+/* slideer */
+.slider_img {
+  width: 90% !important;
+  height: 90% !important;
+}
+.slider_img img {
+  width: 100%;
+  height: 100%;
+}
+
+/* tour */
+.tour-image  {
+  /* max-width: 100%;
+    height: auto; */
+  width: 390px;
+  height: 230px;
+  object-fit: cover;
+}
+
+
+
+.tour-image img{
+  width: 100%;
+  height: 100%;
+}
